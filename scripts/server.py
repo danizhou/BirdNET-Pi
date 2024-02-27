@@ -15,6 +15,7 @@ import threading
 import os
 import gzip
 
+
 from utils.notifications import sendAppriseNotifications
 from utils.parse_settings import config_to_settings
 
